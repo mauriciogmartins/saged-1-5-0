@@ -11,3 +11,5 @@ class SisColPermissoes {
         this.imprimir = imprimir;
     }
 }
+
+module.exports = SisColPermissoes;

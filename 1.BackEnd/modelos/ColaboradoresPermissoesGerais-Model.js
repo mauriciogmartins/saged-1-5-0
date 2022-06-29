@@ -10,3 +10,5 @@ class ColaboradoresPermissoesGerais {
         this.imprimir = imprimir;
     }
 }
+
+module.exports = ColaboradoresPermissoesGerais;

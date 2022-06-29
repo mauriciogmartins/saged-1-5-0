@@ -7,3 +7,5 @@ class SisLicenca {
         this.fim = fim;
     }
 }
+
+module.exports = SisLicenca;

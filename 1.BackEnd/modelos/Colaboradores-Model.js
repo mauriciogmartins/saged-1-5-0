@@ -21,3 +21,5 @@ class Colaboradores {
         this.em_edicao = em_edicao;
     }
 }
+
+module.exports = Colaboradores;

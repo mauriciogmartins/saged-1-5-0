@@ -7,3 +7,5 @@ class UfsCidades {
         this.em_edicao = em_edicao;
     }
 }
+
+module.exports = UfsCidades;

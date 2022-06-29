@@ -16,3 +16,5 @@ class InstituicaoParametros {
         this.alunos_list_dif_aprendizagem = alunos_list_dif_aprendizagem;
     }
 }
+
+module.exports = InstituicaoParametros;

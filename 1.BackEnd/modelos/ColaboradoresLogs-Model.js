@@ -10,3 +10,5 @@ class ColaboradoresLogs {
         this.dados_pos_acao = dados_pos_acao;
     }
 }
+
+module.exports = ColaboradoresLogs;

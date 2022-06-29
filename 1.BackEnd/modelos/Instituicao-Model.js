@@ -26,3 +26,5 @@ class Instituicao {
         this.instragram = instragram;
     }
 }
+
+module.exports = Instituicao;
