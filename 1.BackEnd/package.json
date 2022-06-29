@@ -1,0 +1,25 @@
+{
+  "name": "saged-1.5.0",
+  "version": "1.5.0",
+  "description": "Backend do sistema Saged",
+  "main": "saged.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mauriciogmartins/saged-1-5-0.git"
+  },
+  "keywords": [
+    "node",
+    "sistema",
+    "fenixds"
+  ],
+  "author": "Mauricio Martins - Fênix D.S",
+  "license": "ISC",
+  "private": true,
+  "bugs": {
+    "url": "https://github.com/mauriciogmartins/saged-1-5-0/issues"
+  },
+  "homepage": "https://github.com/mauriciogmartins/saged-1-5-0#readme"
+}
